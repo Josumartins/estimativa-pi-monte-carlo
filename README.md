@@ -15,7 +15,7 @@ pip --version
 
 ### :inbox_tray: Instalando o Matplotlib:
 ```bash
-pip install matplotlib
+sudo apt install python3-matplotl
 
 ```
 ### :gear: **Como rodar no Linux!!**
