@@ -13,9 +13,9 @@ python3 --version
 pip --version
 ```
 
-### :inbox_tray: Caso o `pip` não esteja , instale com:
+### :inbox_tray: Instalando o Matplotlib:
 ```bash
-sudo apt install python3-pip -y
+pip install matplotlib
 
 ```
 ### :gear: **Como rodar no Linux!!**
@@ -26,15 +26,8 @@ git clone https://github.com/Josumartins/estimativa-pi-monte-carlo
 cd estimativa estimativa-pi-monte-carlo
 ```
 
-2.Instale as dependências:
-```bash
-pip install matplotlib
-
-```
-
-3.Execute o programa:
+2.Execute o programa:
 ```bash
 python3 main.py
-deactivate
 ```
 
