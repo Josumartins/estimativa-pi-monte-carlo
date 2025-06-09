@@ -7,15 +7,13 @@ Este projeto em Python usa o método de Monte Carlo para estimar o valor de π (
 ```bash
 pip --version
 
-## Caso não esteja faça isso!!
+### **Caso não esteja faça isso!!**
 
 ```bash
-
 sudo apt install python3-pip -y
 
-## Como rodar no Linux
+#### **Como rodar no Linux!!**
 
 ```bash
-
 pip install -r requirements.txt
 python3 main.py
