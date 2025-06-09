@@ -30,7 +30,6 @@ def estimar_pi(n_pontos):
 
     return pi_estimado
 
-# Rodar a simulação
 if __name__ == "__main__":
     n = int(input("Quantos pontos deseja gerar? "))
     pi = estimar_pi(n)
