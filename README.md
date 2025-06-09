@@ -16,7 +16,6 @@ pip --version
 ### :inbox_tray: Caso o `pip` não esteja , instale com:
 ```bash
 sudo apt install python3-pip -y
-sudo apt install python3-venv -y
 
 ```
 ### :gear: **Como rodar no Linux!!**
@@ -25,13 +24,12 @@ sudo apt install python3-venv -y
 ```bash
 git clone https://github.com/Josumartins/estimativa-pi-monte-carlo
 cd estimativa estimativa-pi-monte-carlo
-python3 -m venv venv
-source venv/bin/activate
 ```
 
 2.Instale as dependências:
 ```bash
-pip install -r requirements.txt
+pip install matplotlib
+
 ```
 
 3.Execute o programa:
