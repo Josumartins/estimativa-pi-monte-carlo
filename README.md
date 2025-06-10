@@ -12,10 +12,11 @@ Este projeto em Python usa o método de Monte Carlo para estimar o valor de π (
 python3 --version
 pip --version
 ```
-
-### :inbox_tray: Instalando o Matplotlib:
+### Caso o nao tenha o pip
+### :inbox_tray: Instalando o pip e o Matplotlib:
 ```bash
-sudo apt install python3-matplotl
+sudo apt install python3-pip
+sudo apt install python3-matplotlib
 
 ```
 ### :gear: **Como rodar no Linux!!**
