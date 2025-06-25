@@ -28,7 +28,6 @@ cd estimativa estimativa-pi-monte-carlo
 ```
 
 2.Execute o programa:
-```bash
-python3 main.py
 ```
-
+python3 main.py  
+```  
